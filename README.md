@@ -8,3 +8,5 @@
 |Twitter|[@yamanoku](https://twitter.com/yamanoku)|
 |Facebook|[yamanoku](https://www.facebook.com/yamanoku)|
 |Tumblr|[yamanoku](https://tumblr.yamanoku.net/)|
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=yamanoku)](https://github.com/ryo-ma/github-profile-trophy)
