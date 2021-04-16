@@ -1,8 +1,11 @@
+[![Github](https://img.shields.io/github/followers/yamanoku?label=Follow&style=social)](https://github.com/yamanoku)
+[![Twitter](https://img.shields.io/twitter/follow/yamanoku?style=social)](https://twitter.com/yamanoku)
+
 ## 基本情報 - BasicInfo
 
 |key|value|
 |---|-----|
-|Name|<ruby><rb>大山 奥人<rb><rt>おおやま おくと</rt></ruby>|
+|Name|大山 奥人（おおやま おくと）|
 |Site|[yamanoku.net](https://yamanoku.net/)|
 |scrapbox|[scrapbox.io/yamanoku/](https://scrapbox.io/yamanoku/)|
 |Twitter|[@yamanoku](https://twitter.com/yamanoku)|
