@@ -17,6 +17,8 @@
 
 ## 💰 寄付・支援 - Donate & Sponsor
 
+[:heart: Sponsor on GitHub](https://github.com/sponsors/yamanoku)
+
 <a href="https://www.buymeacoffee.com/yamanoku" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/arial-white.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
 </a>
