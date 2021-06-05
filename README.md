@@ -24,6 +24,8 @@ My birthday is October 30, 1989. I was born in Noshiro City, Akita Prefecture. I
 
 [:heart: Sponsor on GitHub](https://github.com/sponsors/yamanoku)
 
+[:heavy_dollar_sign: Stripe Payment Links](https://buy.stripe.com/00gaEY1Eh5bE7VC8ww)
+
 <a href="https://www.buymeacoffee.com/yamanoku" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/arial-white.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
 </a>
