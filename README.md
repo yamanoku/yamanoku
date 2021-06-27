@@ -22,6 +22,10 @@ My birthday is October 30, 1989. I was born in Noshiro City, Akita Prefecture. I
 
 ## 💰 寄付・支援 - Donate & Sponsor
 
+個人で[OSS活動](https://www.notion.so/yamanoku/OSS-2021-2c4fa51b832645f494698ebd11e069f9)をしています。継続的に活動できるように応援いただけるととても嬉しいです。
+
+I am working on [OSS activities as](https://www.notion.so/yamanoku/OSS-2021-2c4fa51b832645f494698ebd11e069f9) an individual. I would be very happy if you could support me so that I can continue my activities.
+
 [:heart: Sponsor on GitHub](https://github.com/sponsors/yamanoku)
 
 [:heavy_dollar_sign: Stripe Payment Links](https://buy.stripe.com/00gaEY1Eh5bE7VC8ww)
