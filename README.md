@@ -26,10 +26,10 @@ My birthday is October 30, 1989. I was born in Noshiro City, Akita Prefecture. I
 
 I am working on [OSS activities as](https://www.notion.so/yamanoku/OSS-2021-2c4fa51b832645f494698ebd11e069f9) an individual. I would be very happy if you could support me so that I can continue my activities.
 
-[:heart: Sponsor on GitHub](https://github.com/sponsors/yamanoku)
+### 寄付先リンク一覧
 
-[:heavy_dollar_sign: Stripe Payment Links](https://buy.stripe.com/00gaEY1Eh5bE7VC8ww)
-
-<a href="https://www.buymeacoffee.com/yamanoku" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/arial-white.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
-</a>
+<ul>
+  <li><a href="https://github.com/sponsors/yamanoku" target="_blank">:heart: Sponsor on GitHub</a>
+  <li><a href="https://buy.stripe.com/00gaEY1Eh5bE7VC8ww" target="_blank">:heavy_dollar_sign: Stripe Payment Links</a>
+  <li><a href="https://www.buymeacoffee.com/yamanoku" target="_blank">:coffee: Buy Me A Coffee</a></li>
+</ul>
