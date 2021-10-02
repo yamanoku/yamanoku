@@ -15,7 +15,7 @@ My birthday is October 30, 1989. I was born in Noshiro City, Akita Prefecture. I
 |---|-----|
 |Site|[yamanoku.net](https://yamanoku.net/)|
 |scrapbox|[scrapbox.io/yamanoku/](https://scrapbox.io/yamanoku/)|
-|Twitter|[@yamanoku](https://twitter.com/yamanoku)|
+|Twitter|[@okuto_oyama](https://twitter.com/okuto_oyama)|
 |Facebook|[yamanoku](https://www.facebook.com/yamanoku)|
 |Tumblr|[yamanoku](https://tumblr.yamanoku.net/)|
 
