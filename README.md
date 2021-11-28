@@ -33,5 +33,3 @@ I am working on [Contributing to OSS](https://www.notion.so/yamanoku/OSS-2021-2c
   <li><a href="https://buy.stripe.com/00gaEY1Eh5bE7VC8ww" target="_blank">:heavy_dollar_sign: Stripe Payment Links</a>
   <li><a href="https://www.buymeacoffee.com/yamanoku" target="_blank">:coffee: Buy Me A Coffee</a></li>
 </ul>
-
-[![時間のないサイト運営者リング](https://user-images.githubusercontent.com/1996642/142204162-232bfa95-69cb-45e0-9ca2-2ae80cd0fe8e.png)](https://sites.google.com/site/happybusy/)
