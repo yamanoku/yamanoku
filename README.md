@@ -1,7 +1,7 @@
 # 👋 はじめまして！ - Hello!
 
 [![Github](https://img.shields.io/github/followers/yamanoku?label=Follow&style=social)](https://github.com/yamanoku)
-[![Twitter](https://img.shields.io/twitter/follow/okuto_oyama?style=social)](https://twitter.com/okuto_oyama)
+[![x](https://img.shields.io/twitter/follow/yamanoku?style=social)](https://x.com/yamanoku)
 
 ## ℹ️ 基本情報 - BasicInfo
 
