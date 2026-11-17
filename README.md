@@ -13,9 +13,10 @@ My birthday is October 30, 1989. I was born in Noshiro City, Akita Prefecture. I
 
 |key|URL|
 |---|-----|
-|Portal Site|[yamanoku.net](https://yamanoku.net/)|
-|Archive Site|[archives.yamanoku.net](https://archives.yamanoku.net/)|
-|Portfolio Site|[portfolio.yamanoku.net](https://portfolio.yamanoku.net/)|
+|ポータルサイト / Portal Site|[yamanoku.net](https://yamanoku.net/)|
+|ポートフォリオ / Portfolio Site|[portfolio.yamanoku.net](https://portfolio.yamanoku.net/)|
+|登壇・発表 / Records Site|[records.yamanoku.net](https://records.yamanoku.net/)|
+|アーカイブ / Archive Site|[archives.yamanoku.net](https://archives.yamanoku.net/)|
 |X(旧 Twitter)|[@yamanoku](https://x.com/yamanoku)|
 
 ## 💰 寄付・支援 - Donate & Sponsor
